@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I am a passionate developer who loves building impactful solutions and learning new technologies. Welcome to my GitHub profile!
 
-- 🔭 **Current Focus:** I am currently studying Bachelor of Information Technology in Univeristy Kebangsaan malaysia.
+- 🔭 **Current Focus:** I am currently studying Bachelor of Information Technology in University Kebangsaan malaysia.
 - 🌱 **Learning Journey:** Actively expanding my knowledge in Python
 - 📫 **How to Reach Me:** adlyna.8110@gmail.com
 
